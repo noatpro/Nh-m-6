@@ -1,5 +1,5 @@
 # Nhom-6
-CHỦ ĐỀ: Website bán sách<br>
+CHỦ ĐỀ: Xây dựng website bán sách<br>
 Thành viên:<br>
   1.Nguyễn Văn Toàn<br>
   2.Đoàn Thị Lan Hương<br>
